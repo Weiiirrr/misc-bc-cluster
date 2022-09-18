@@ -1,0 +1,3 @@
+sbatch sbatch_fmriprep.sh #submit a new job
+squeue
+sacct -j 447940 #job id
